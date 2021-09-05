@@ -12,19 +12,12 @@
   <a href="https://josharrants.com" target="_blank"><img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=rss&logoColor=white"></a>
 </p>
 
-<!-- <br/>
-  <h2>📃 Github Stats</h2>
-<br/> -->
 
-<div>
-  <div align="center">
-    <a href="#"><img align="center" alt="Josh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshdrumz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img align="center" alt="Josh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshdrumz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-    <hr />
-  </div>
-</div>
+<a href="https://github.com/joshdrumz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshdrumz&show_icons=true&theme=merko&count_private=true" alt="Josh's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshdrumz&theme=merko&layout=compact&langs_count=6" alt="Josh's github top languages" />
+</a>
+<br/>
 
 <!--
 **joshdrumz/joshdrumz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
